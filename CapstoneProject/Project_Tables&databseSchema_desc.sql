@@ -1,0 +1,14 @@
+use online_book_store;
+desc book;
+show tables;
+DESC checkout;
+DESC customer;
+DESC customerphone;
+DESC media;
+desc productcheckout;
+desc publisher;
+desc publisherphone;
+desc `source`;
+desc sourceproduct;
+desc warehouse;
+desc warehouseproduct;
