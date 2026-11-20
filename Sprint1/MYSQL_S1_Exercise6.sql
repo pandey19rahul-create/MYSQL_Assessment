@@ -1,0 +1,5 @@
+-- Exercise 6
+SELECT property_name, price_per_night, created_at
+FROM property
+WHERE price_per_night>2000 
+AND MONTH(created_at)=MONTH(curdate());
